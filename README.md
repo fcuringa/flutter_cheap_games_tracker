@@ -1,8 +1,8 @@
 # Games deals tracker demo Flutter app
 
-![home](doc/home.png)
-![details](doc/details.png)
-![store](doc/store.png)
+Home | Details | Store (web browser)
+:---:|:-------:|:-------------------:
+![home](doc/home.png) | ![details](doc/details.png) | ![store](doc/store.png)
 
 This is a demo application implementing a simple video game deal tracker written in Flutter.
 
